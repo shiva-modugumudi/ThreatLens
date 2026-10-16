@@ -1,0 +1,1 @@
+[{"id":"demo-pulse-1","indicators":[{"type":"IPv4","indicator":"8.8.8.8"},{"type":"domain","indicator":"example.org"},{"type":"IPv4","indicator":"127.0.0.1"}]}]
